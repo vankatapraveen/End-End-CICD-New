@@ -223,6 +223,4 @@ vi myapp-service.yml
 
 # Congratulations!
 
-# Merciboi Systems Solutions
-# info@merciboi.com
-# Updated by vankatapraveen
+
